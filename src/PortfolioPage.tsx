@@ -52,7 +52,7 @@ export default function PortfolioPage() {
             Full Stack Developer — React, TypeScript, Node.js, SQL, Three.js
           </p>
           <p className="text-slate-400 leading-relaxed max-w-3xl">
-            I’m a 23-year-old developer based in Rehovot, Israel, with a strong
+            I’m a 24-year-old developer based in Jerusalem, Israel, with a strong
             focus on building clean, efficient, and reliable systems. I enjoy
             taking complex problems and breaking them down into smart,
             maintainable solutions. I’m always excited to learn new
@@ -175,7 +175,7 @@ export default function PortfolioPage() {
         </section>
 
         <div className="border-t border-slate-800 pt-4 text-center text-xs text-slate-600">
-          © 2025 Shaked Yaron
+          © 2026 Shaked Yaron
         </div>
       </main>
     </div>
